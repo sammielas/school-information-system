@@ -1,0 +1,6 @@
+{
+  "name": "MEAN Student List",
+  "description": "A MEAN app that allows users to manage a student list.",
+  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
+  "addons": ["mongolab"]
+}
