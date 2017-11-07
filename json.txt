@@ -1,12 +1,6 @@
-{"firstName":"Samson",
- "lastName": "Lasode",
- "email": "samflicks@gmail.com"}
-{"firstName":"Shakespare",
- "lastName": "Romeo",
- "email": "shakeromeo@gmail.com"}
-{"firstName":"Ben",
- "lastName": "Carson",
- "email": "bencarson@gmail.com"}
-{"firstName":"Moyinoluwa",
+
+
+{
+"firstName":"Moyinoluwa",
  "lastName": "Adeyemi",
  "email": "mohyeen@gmail.com"}
