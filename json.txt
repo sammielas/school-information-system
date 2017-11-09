@@ -1,6 +1,31 @@
-
+{
+"students":[
 
 {
 "firstName":"Moyinoluwa",
  "lastName": "Adeyemi",
- "email": "mohyeen@gmail.com"}
+ "email": "mohyeen@gmail.com"},
+
+
+{
+"firstName":"Jane",
+ "lastName": "Roberts",
+ "email": "jrob@gmail.com"},
+
+{
+"firstName":"Derek",
+ "lastName": "Jakes",
+ "email": "derekj@gmail.com"},
+
+{
+"firstName":"Toba",
+ "lastName": "John",
+ "email": "teejohn@gmail.com"},
+
+{
+"firstName":"Kalu",
+ "lastName": "Nnmadi",
+ "email": "biafrakalu@gmail.com"}
+
+]
+}
