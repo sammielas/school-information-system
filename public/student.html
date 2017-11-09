@@ -14,10 +14,12 @@
 </div>
 <div ng-hide="editMode" class="container">
   <div>
+<p ng-if="student.matricno"> matricno: {{ student.matricno }} </p>
     <p ng-if="student.email">email: <a ng-href="mailto:{{ student.email }}" target="_blank">{{ student.email }}</a></p>
     <p ng-if="student.phone.mobile">phone (m): {{ student.phone.mobile }} </p>
     <p ng-if="student.phone.work">phone (w): {{ student.phone.work }} </p>
     <p ng-if="student.address"> address: {{ student.address }} </p>
+<p ng-if="student.discipline"> discipline: {{ student.discipline }} </p>
     <p ng-if="student.twitter"> twitter: <a ng-href="https://twitter.com/{{ student.twitter }}" target="_blank">@{{ student.twitter }}</a></p>
     <p>
       <button style="margin-top:20px" class="btn btn-default" ng-click="toggleEdit()">Edit</button>
